@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6182'
     url: http://www.gutenberg.org/2009/agents/6182
 description: A collection of fairy tales from various authors for elementary readers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15659#The-Beacon-Second-Reader
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2005-04-19'
 gutenberg_type: Text
